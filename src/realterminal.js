@@ -256,6 +256,10 @@ document.addEventListener('DOMContentLoaded', () => {
     
     const quotes = [
       {
+        quote: "Every once in awhile we may fall on our face, but we insist on doing what we wanna do.",
+        author: "Cliff Burton"
+      },
+      {
         quote: "Believe you can and you're halfway there.",
         author: "Theodore Roosevelt"
       },
