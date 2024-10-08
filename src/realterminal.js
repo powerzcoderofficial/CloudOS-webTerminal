@@ -492,6 +492,7 @@ document.addEventListener('DOMContentLoaded', () => {
       },
         ver: () => 'Version 1.0',
         echo: (args) => args.join(' '),
+        github: () => 'https://github.com/powerzcoderofficial',
         clear: () => {
             outputDiv.innerHTML = '';
             return '';
